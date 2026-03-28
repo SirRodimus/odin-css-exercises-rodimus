@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd{
   background-color: rgb(252, 183, 183);
-  font-family: 'Verdana','Dejavu','sans-serif';
+  font-family: 'Verdana','DejaVu Sans','sans-serif';
 }
 
 #element1{
@@ -9,12 +9,11 @@
   font-size: 36px;
 }
 
-.odd#cooler{
+.cooler{
   font-size:24px;
 }
 
 #element2{
   background-color: rgb(66, 248, 112);
-  font-size: 24px;
   font-weight:bold;
 }
